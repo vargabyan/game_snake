@@ -1,3 +1,3 @@
 # game_snake
 
-hosting test-3-6d468.web.app or test-3-6d468.firebaseapp.com
+hosting https://test-3-6d468.web.app or https://test-3-6d468.firebaseapp.com
